@@ -1,0 +1,20 @@
+{
+  "name": "قريب — Qareeb",
+  "short_name": "قريب",
+  "description": "مساحة قريبة للمحادثة والمشاركة والاتصال",
+  "start_url": "/chat",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f9fc",
+  "theme_color": "#1c6de5",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

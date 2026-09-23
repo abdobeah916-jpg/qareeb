@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Qareeb">
+  <rect width="192" height="192" rx="48" fill="#1c6de5"/>
+  <path d="M48 128.5A64.5 64.5 0 1 1 144 130l17 26-29-9A64 64 0 0 1 48 128.5Z" fill="#fff"/>
+  <path d="M72 92a38 38 0 0 1 48 0M83 109a18 18 0 0 1 26 0M95 126h.2" fill="none" stroke="#1c6de5" stroke-linecap="round" stroke-width="9"/>
+</svg>
