@@ -1,0 +1,1 @@
+ALTER TABLE `retentionPolicies` ADD `scheduleCronTaskUid` varchar(65);
